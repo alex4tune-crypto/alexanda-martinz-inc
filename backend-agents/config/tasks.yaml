@@ -1,0 +1,32 @@
+ceo_weekly_summary:
+  description: >
+    Review the week's departmental outputs from departmental_tasks and security
+    counters from holas_security_logs. Write a profit-driven, professional executive
+    summary covering server states, marketing performance, development metrics, and
+    intrusion counters. Address directly to Alexanda Martinz.
+  expected_output: >
+    A Markdown executive report addressed to Alexanda Martinz with sections: Executive
+    Summary, Marketing (Grok), Development (Qwen), Security (Holas Defender), and
+    Profit Outlook.
+
+inventor_feasibility:
+  description: >
+    Review the submitted invention idea. Produce a feasibility analysis covering
+    technical viability, market potential, risks, and recommended next steps.
+  expected_output: >
+    A Markdown feasibility report with sections: Summary, Technical Viability, Market
+    Potential, Risks, and Recommendation.
+
+marketing_campaign:
+  description: >
+    Given a product brief, design a go-to-market launch: positioning, pricing tiers,
+    channels, and a 7-day action plan.
+  expected_output: >
+    A Markdown launch plan with positioning, pricing tiers, channels, and schedule.
+
+dev_maintenance:
+  description: >
+    Given a system symptom, diagnose the likely root cause and produce a remediation
+    plan for cloud/Supabase infrastructure.
+  expected_output: >
+    A Markdown diagnosis with root cause, remediation steps, and verification.
