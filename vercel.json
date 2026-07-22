@@ -1,8 +1,6 @@
 {
   "framework": "vite",
-  "src": "frontend-portal",
-  "installCommand": "cd frontend-portal && npm install",
-  "buildCommand": "cd frontend-portal && npm run build",
+  "buildCommand": "cd frontend-portal && npm install && npm run build",
   "outputDirectory": "frontend-portal/dist",
   "rewrites": [
     {
